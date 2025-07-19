@@ -97,6 +97,8 @@ Just connect your GitHub repo and deploy directly.
 
 ## 📸 Demo Screenshot
 
-![screenshot](./screenshot.png) 
+![Screenshot](screenshot/screenshot1.png)
+![Screenshot](screenshot/screenshot2.png)
+
 
 ---
