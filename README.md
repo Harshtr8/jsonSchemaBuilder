@@ -1,5 +1,5 @@
 
-# 🧩 JSON Schema Builder – HROne Frontend Intern Task
+#  JSON Schema Builder – HROne Frontend Intern Task
 
 This project is a **React-based JSON Schema Builder**, built using **ShadCN/UI components** and **TypeScript**, fulfilling the requirements of the HROne Frontend Intern Hiring Task.
 
@@ -9,16 +9,16 @@ It allows users to dynamically create and preview a JSON Schema with features su
 
 ## 🚀 Features
 
-- ✅ **Edit Field Name/Key**
-- ➕ **Add New Fields Dynamically**
-- ❌ **Delete Fields**
-- 🔁 **Recursive Nesting** for `Nested` and `Array (Nested)` field types
-- 👀 **Live JSON Preview Panel**
-- 🧠 **Default Values** based on selected field type
-- 🧪 **Bonus:** 
-  - Validation to avoid invalid/duplicate field keys
+-  **Edit Field Name/Key**
+-  **Add New Fields Dynamically**
+-  **Delete Fields**
+-  **Recursive Nesting** for `Nested` and `Array (Nested)` field types
+-  **Live JSON Preview Panel**
+-  **Default Values** based on selected field type
+-  **Bonus:** 
+  - Validation to avoid duplicate field keys
   - Extra field types: `Array`, `Object ID`
-  - Copy JSON Output to Clipboard ✅
+  - Copy JSON Output to Clipboard 
 
 ---
 
@@ -27,7 +27,7 @@ It allows users to dynamically create and preview a JSON Schema with features su
 - **React + TypeScript**
 - **ShadCN/UI** (Radix UI + Tailwind CSS based)
 - **Tailwind CSS** for styling
-- **React Hook Form** (suggested, optional)
+- **React Hook Form** 
 - **Lucide Icons**
 
 ---
@@ -60,8 +60,8 @@ Follow these steps to run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/harshtr8/json-schema-builder.git
-cd json-schema-builder
+git clone https://github.com/harshtr8/jsonSchemaBuilder.git
+cd jsonSchemaBuilder
 ```
 
 ### 2. Install dependencies
@@ -84,7 +84,7 @@ Project will run at: [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 📤 Deployment (Optional)
+## 📤 Deployment 
 
 You can deploy it easily using platforms like:
 
@@ -95,26 +95,8 @@ Just connect your GitHub repo and deploy directly.
 
 ---
 
-## 📎 Submission Guidelines
-
-- ✅ Make sure your repo is **public**
-- ✅ Grant repo access to **`shreybatra`**
-- ✅ Share hosted app link using the **submission form**
-- ✅ DO NOT include traces of AI-generated output
-
----
-
 ## 📸 Demo Screenshot
 
-![screenshot](./screenshot.png) <!-- Optional: Add a preview of the UI -->
-
----
-
-## ✍️ Author
-
-**Your Name**  
-Frontend Developer | React Enthusiast  
-📧 your.email@example.com  
-🌐 [LinkedIn](https://linkedin.com/in/yourname)
+![screenshot](./screenshot.png) 
 
 ---
