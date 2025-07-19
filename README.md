@@ -7,7 +7,7 @@ It allows users to dynamically create and preview a JSON Schema with features su
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  **Edit Field Name/Key**
 -  **Add New Fields Dynamically**
@@ -22,7 +22,7 @@ It allows users to dynamically create and preview a JSON Schema with features su
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - **React + TypeScript**
 - **ShadCN/UI** (Radix UI + Tailwind CSS based)
@@ -32,7 +32,7 @@ It allows users to dynamically create and preview a JSON Schema with features su
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 src/
@@ -84,7 +84,7 @@ Project will run at: [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 📤 Deployment 
+##  Deployment 
 
 You can deploy it easily using platforms like:
 
