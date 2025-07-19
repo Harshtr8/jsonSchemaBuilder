@@ -53,7 +53,7 @@ src/
 
 ---
 
-## ⚙️ Installation & Running Locally
+##  Installation & Running Locally
 
 Follow these steps to run the project locally:
 
