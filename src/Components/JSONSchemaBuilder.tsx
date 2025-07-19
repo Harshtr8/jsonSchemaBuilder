@@ -1,6 +1,6 @@
 "use client"
 
-import React, { useState, useCallback } from "react"
+import { useState, useCallback } from "react"
 import { Card, CardContent, CardHeader, CardTitle } from "./ui/card"
 import { Plus } from "lucide-react"
 import { Button } from "./ui/button"
