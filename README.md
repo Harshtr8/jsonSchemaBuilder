@@ -7,6 +7,14 @@ It allows users to dynamically create and preview a JSON Schema with features su
 
 ---
 
+##  Demo Video Link 
+
+ https://drive.google.com/file/d/1AqEdVXZLpoioJPANbva6UIa3RY_uyGoq/view?usp=sharing
+
+
+
+
+---
 ##  Features
 
 -  **Edit Field Name/Key**
@@ -84,16 +92,6 @@ Project will run at: [http://localhost:5173](http://localhost:5173)
 
 ---
 
-##  Deployment 
-
-You can deploy it easily using platforms like:
-
-- [Vercel](https://vercel.com/)
-- [Netlify](https://netlify.com/)
-
-Just connect your GitHub repo and deploy directly.
-
----
 
 ##  Demo Screenshot
 
