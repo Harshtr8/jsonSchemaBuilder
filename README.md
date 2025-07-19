@@ -30,10 +30,9 @@ It allows users to dynamically create and preview a JSON Schema with features su
 -  **Recursive Nesting** for `Nested` and `Array (Nested)` field types
 -  **Live JSON Preview Panel**
 -  **Default Values** based on selected field type
--  **** 
-  - Validation to avoid duplicate field keys
-  - Extra field types: `Array`, `Object ID`
-  - Copy JSON Output to Clipboard 
+- Validation to avoid duplicate field keys
+- Extra field types: `Array`, `Object ID`
+- Copy JSON Output to Clipboard 
 
 ---
 
