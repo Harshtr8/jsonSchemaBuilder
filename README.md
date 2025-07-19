@@ -100,11 +100,3 @@ Project will run at: [http://localhost:5173](http://localhost:5173)
 
 
 ---
-##  Demo Video Link 
-
- https://drive.google.com/file/d/1AqEdVXZLpoioJPANbva6UIa3RY_uyGoq/view?usp=sharing
-
-
-
-
----
