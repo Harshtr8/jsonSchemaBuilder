@@ -1,7 +1,7 @@
 
-#  JSON Schema Builder – HROne Frontend Intern Task
+#  JSON Schema Builder
 
-This project is a **React-based JSON Schema Builder**, built using **ShadCN/UI components** and **TypeScript**, fulfilling the requirements of the HROne Frontend Intern Hiring Task.
+This project is a **React-based JSON Schema Builder**, built using **ShadCN/UI components** and **TypeScript**.
 
 It allows users to dynamically create and preview a JSON Schema with features such as nested fields, dynamic field types, and real-time JSON output.
 
